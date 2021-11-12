@@ -2,7 +2,7 @@
 
 This lab is aimed to walk you through the complete workflow of a machine learning project; from data wrangling, exploratory data analysis (EDA), model training and model evaluation/comparison. 
 
-You will work with your machine project teamates for this lab and your team needs to decide whether to use either R or Python as the main programming language. **Each team memeber needs to work on his/her own submission.**
+You will work with your machine project teamates for this lab and your team needs to decide whether to use either R or Python as the main programming language. You can split up the work for each question, but **you should solve every question in the lab as a team**. Please submit either a file with a link to the GitHub repository (either your fork of the master repo or the master repo itself) or a Jupyter Notebook that contains your completed work.
 
 We will use Github for team collaboration and it can be broken down into following steps:
 
