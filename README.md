@@ -1,4 +1,4 @@
-# Machine Learning Lab for 2021_11_15
+# Machine Learning Lab
 
 This lab is aimed to walk you through the complete workflow of a machine learning project; from data wrangling, exploratory data analysis (EDA), model training and model evaluation/comparison. 
 
